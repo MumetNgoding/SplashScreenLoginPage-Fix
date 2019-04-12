@@ -6,5 +6,5 @@ Cara membuat Splash Screen dan Login Landing Page pada Android Studio menggunaka
 Untuk Codingan Custom Button terdapat pada file `positivebutton.xml`
 
 
-
+Creator :
 <b>Nugroho</b>
